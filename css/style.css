@@ -340,6 +340,7 @@ nav ul li a {
   display: inline-block;
   height: 100%;
   width: 100%;
+  padding-top: 20px;
 }
 
 #features .feature-block {
@@ -372,6 +373,7 @@ nav ul li a {
 #portfolio {
   position: ;
   padding-bottom: 50px;
+margin-top: -80px;
 }
 
 #portfolio .portfolio-list {
