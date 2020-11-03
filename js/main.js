@@ -53,7 +53,7 @@ $(document).ready(function() {
 
   $(window).scroll(function() {
     var scroll = $(window).scrollTop();
-    if (scroll > 100 ) {
+    if (scroll > 10 ) {
       $("#main-nav, #main-nav-subpage").slideDown(300);
       $("#main-nav-subpage").removeClass('subpage-nav');
     } else {
